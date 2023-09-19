@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nwankapresh
 - 👀 I’m interested in ...Web development 
-- 🌱 I’m currently learning .react js and react native ..
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning .react js and jQuery..
+- 💞️ I’m looking to collaborate on multiple projects to build up my skills and portfolio...
 - 📫 How to reach me ..nwankapresh@gmail.com.
 
 <!---
